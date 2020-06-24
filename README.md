@@ -22,6 +22,11 @@ virtualenv <path_to_your_env>
 source <path_to_your_env>/bin/activate
 pip install -r requirements.txt
 ```
+### To Hamid:
+I use:
+```
+pip install -r requirements_amin.txt
+```
 
 Then follow the installation instructions for a version of
 [PyTorch](http://pytorch.org/) which works for your machine.
